@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on H.M.</title>
-    <link>https://hmatic.github.io/tags/</link>
+    <link>https://www.hrvojematic.com/tags/</link>
     <description>Recent content in Tags on H.M.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Sep 2020 19:58:26 +0200</lastBuildDate><atom:link href="https://hmatic.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 Sep 2020 19:58:26 +0200</lastBuildDate><atom:link href="https://www.hrvojematic.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blogging</title>
-      <link>https://hmatic.github.io/tags/blogging/</link>
+      <link>https://www.hrvojematic.com/tags/blogging/</link>
       <pubDate>Sat, 19 Sep 2020 19:58:26 +0200</pubDate>
       
-      <guid>https://hmatic.github.io/tags/blogging/</guid>
+      <guid>https://www.hrvojematic.com/tags/blogging/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development</title>
-      <link>https://hmatic.github.io/tags/development/</link>
+      <link>https://www.hrvojematic.com/tags/development/</link>
       <pubDate>Sat, 19 Sep 2020 19:58:26 +0200</pubDate>
       
-      <guid>https://hmatic.github.io/tags/development/</guid>
+      <guid>https://www.hrvojematic.com/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>fast</title>
-      <link>https://hmatic.github.io/tags/fast/</link>
+      <link>https://www.hrvojematic.com/tags/fast/</link>
       <pubDate>Sat, 19 Sep 2020 19:58:26 +0200</pubDate>
       
-      <guid>https://hmatic.github.io/tags/fast/</guid>
+      <guid>https://www.hrvojematic.com/tags/fast/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Go</title>
-      <link>https://hmatic.github.io/tags/go/</link>
+      <link>https://www.hrvojematic.com/tags/go/</link>
       <pubDate>Sat, 19 Sep 2020 19:58:26 +0200</pubDate>
       
-      <guid>https://hmatic.github.io/tags/go/</guid>
+      <guid>https://www.hrvojematic.com/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>lala</title>
-      <link>https://hmatic.github.io/tags/lala/</link>
+      <link>https://www.hrvojematic.com/tags/lala/</link>
       <pubDate>Thu, 17 Sep 2020 19:53:26 +0200</pubDate>
       
-      <guid>https://hmatic.github.io/tags/lala/</guid>
+      <guid>https://www.hrvojematic.com/tags/lala/</guid>
       <description></description>
     </item>
     
