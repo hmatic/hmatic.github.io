@@ -7,8 +7,7 @@
 
 <title>Blog - H.M.</title>
 
-<meta name="description"
-    content="Blog - H.M.">
+<meta name="description" content="">
 <meta name="author" content="">
 <link rel="canonical" href="https://hrvojematic.com/blog/" />
 
@@ -45,7 +44,7 @@
     id="top">
 <header class="header">
     <nav class="nav">
-        <h1 class="logo"><a href="https://hrvojematic.com/">H.M.</a></h1>
+        <p class="logo"><a href="https://hrvojematic.com/">H.M.</a></p>
         <ul class="menu" id="menu" onscroll="menu_on_scroll()">
             <li>
                 <a href="https://hrvojematic.com/about-me/">About me</a>
@@ -61,11 +60,43 @@
 <ul class="post-tags">
   <li><h3>Categories:</h3></li>
   
+          <li>
+            <a
+            class="category-link"
+            href="https://hrvojematic.com/categories/general/">
+              General
+            </a>
+          </li>
+  
 </ul>
 
 
 
 
+<article class="post-entry">
+  
+  <figure class="entry-cover post-list-img">
+    <img src="https://hrvojematic.com/postheader2.jpg" alt="cover image for My first post">
+  </figure>
+  
+  <header class="entry-header">
+    <h2>
+      My first post
+    </h2>
+  </header>
+  
+  <section class="entry-content">
+    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum....</p>
+  </section>
+  
+  <footer class="entry-footer">
+    <time>September 19, 2020</time>
+     .
+    4min read
+    
+  </footer>
+  <a class="entry-link" aria-label="post link to My first post" href="https://hrvojematic.com/blog/my-first-post/"></a>
+</article>
 
 
     </main><footer class="footer">
@@ -83,12 +114,17 @@
     </button>
 </a>
 
+
+<script src="https://hrvojematic.com/js/highlight.min.min.be617795b40f52d6ca2248c7fbf433c49211c7acfe8f221ac54f6b0007c66ea1.js" integrity="sha256-vmF3lbQPUtbKIkjH&#43;/QzxJIRx6z&#43;jyIaxU9rAAfGbqE="></script>
+
 <script>
     window.onload = function () {
         if (localStorage.getItem("menu-scroll-position")) {
             document.getElementById('menu').scrollLeft = localStorage.getItem("menu-scroll-position");
         }
     }
+    
+    hljs.initHighlightingOnLoad();
     
     document.querySelectorAll('a[href^="#"]').forEach(anchor => {
         anchor.addEventListener("click", function (e) {
