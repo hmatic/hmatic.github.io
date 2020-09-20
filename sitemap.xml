@@ -3,123 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://hrvojematic.com/blog/</loc>
-    <lastmod>2020-09-19T19:58:26+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hrvojematic.com/tags/blogging/</loc>
-    <lastmod>2020-09-19T19:58:26+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hrvojematic.com/categories/</loc>
-    <lastmod>2020-09-19T19:58:26+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hrvojematic.com/tags/development/</loc>
-    <lastmod>2020-09-19T19:58:26+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hrvojematic.com/tags/fast/</loc>
-    <lastmod>2020-09-19T19:58:26+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hrvojematic.com/categories/general/</loc>
-    <lastmod>2020-09-19T19:58:26+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hrvojematic.com/tags/go/</loc>
-    <lastmod>2020-09-19T19:58:26+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hrvojematic.com/</loc>
-    <lastmod>2020-09-19T19:58:26+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hrvojematic.com/blog/my-first-post/</loc>
-    <lastmod>2020-09-19T19:58:26+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hrvojematic.com/tags/</loc>
-    <lastmod>2020-09-19T19:58:26+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://hrvojematic.com/about-me/</loc>
     <lastmod>2020-09-17T20:36:11+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hrvojematic.com/categories/devops/</loc>
-    <lastmod>2020-09-17T19:53:26+02:00</lastmod>
+    <loc>https://hrvojematic.com/blog/</loc>
   </url>
   
   <url>
-    <loc>https://hrvojematic.com/blog/devops/cloudfront/</loc>
-    <lastmod>2020-09-17T19:53:26+02:00</lastmod>
+    <loc>https://hrvojematic.com/categories/</loc>
   </url>
   
   <url>
-    <loc>https://hrvojematic.com/blog/devops/cloudfront-copy-2/</loc>
-    <lastmod>2020-09-17T19:53:26+02:00</lastmod>
+    <loc>https://hrvojematic.com/</loc>
   </url>
   
   <url>
-    <loc>https://hrvojematic.com/blog/devops/cloudfront-copy-3/</loc>
-    <lastmod>2020-09-17T19:53:26+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hrvojematic.com/blog/devops/cloudfront-copy-4/</loc>
-    <lastmod>2020-09-17T19:53:26+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hrvojematic.com/blog/devops/cloudfront-copy-5/</loc>
-    <lastmod>2020-09-17T19:53:26+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hrvojematic.com/blog/devops/cloudfront/</loc>
-    <lastmod>2020-09-17T19:53:26+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hrvojematic.com/blog/devops/cloudfront/</loc>
-    <lastmod>2020-09-17T19:53:26+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hrvojematic.com/blog/devops/cloudfront/</loc>
-    <lastmod>2020-09-17T19:53:26+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hrvojematic.com/blog/devops/cloudfront/</loc>
-    <lastmod>2020-09-17T19:53:26+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hrvojematic.com/blog/devops/cloudfront-copy/</loc>
-    <lastmod>2020-09-17T19:53:26+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hrvojematic.com/blog/devops/cloudfront/</loc>
-    <lastmod>2020-09-17T19:53:26+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hrvojematic.com/tags/lala/</loc>
-    <lastmod>2020-09-17T19:53:26+02:00</lastmod>
+    <loc>https://hrvojematic.com/tags/</loc>
   </url>
   
 </urlset>
