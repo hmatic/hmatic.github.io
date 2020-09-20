@@ -22,7 +22,16 @@
       <pubDate>Thu, 17 Sep 2020 20:36:11 +0200</pubDate>
       
       <guid>https://hrvojematic.com/about-me/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin erat nunc, blandit eget sem id, efficitur tempor mi. Pellentesque congue imperdiet nibh at dapibus. Nunc et mauris et odio condimentum gravida ac vel est. Vivamus erat urna, volutpat non eros non, lobortis commodo magna. Cras sed dui nisl. Ut interdum lectus metus, eu auctor orci consequat non. Maecenas maximus, urna non sagittis tincidunt, sem tortor viverra tellus, eget gravida libero sem vitae enim.</description>
+      <description>Skills &amp;amp; technologies: Programming    RUBY PYTHON JAVASCRIPT     Devops    AWS TERRAFORM ANSIBLE DOCKER    Monitoring    GRAFANA GRAYLOG      Tooling    VSCODE GITHUB ITERM POSTMAN    Certifications:  </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://hrvojematic.com/contact/</link>
+      <pubDate>Thu, 17 Sep 2020 20:36:11 +0200</pubDate>
+      
+      <guid>https://hrvojematic.com/contact/</guid>
+      <description>Contact page is work in progress, you can reach out to me on social media (@hmatic)</description>
     </item>
     
   </channel>
