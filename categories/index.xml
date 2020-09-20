@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on H.M.</title>
-    <link>https://www.hrvojematic.com/categories/</link>
+    <link>https://hrvojematic.com/categories/</link>
     <description>Recent content in Categories on H.M.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Sep 2020 19:58:26 +0200</lastBuildDate><atom:link href="https://www.hrvojematic.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 Sep 2020 19:58:26 +0200</lastBuildDate><atom:link href="https://hrvojematic.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>General</title>
-      <link>https://www.hrvojematic.com/categories/general/</link>
+      <link>https://hrvojematic.com/categories/general/</link>
       <pubDate>Sat, 19 Sep 2020 19:58:26 +0200</pubDate>
       
-      <guid>https://www.hrvojematic.com/categories/general/</guid>
+      <guid>https://hrvojematic.com/categories/general/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Devops</title>
-      <link>https://www.hrvojematic.com/categories/devops/</link>
+      <link>https://hrvojematic.com/categories/devops/</link>
       <pubDate>Thu, 17 Sep 2020 19:53:26 +0200</pubDate>
       
-      <guid>https://www.hrvojematic.com/categories/devops/</guid>
+      <guid>https://hrvojematic.com/categories/devops/</guid>
       <description></description>
     </item>
     
