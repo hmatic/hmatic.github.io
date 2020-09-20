@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Devops on H.M.</title>
-    <link>https://hrvojematic.com/categories/devops/</link>
+    <link>http://hrvojematic.com/categories/devops/</link>
     <description>Recent content in Devops on H.M.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Sep 2020 19:53:26 +0200</lastBuildDate><atom:link href="https://hrvojematic.com/categories/devops/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Sep 2020 19:53:26 +0200</lastBuildDate><atom:link href="http://hrvojematic.com/categories/devops/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Enhancing CloudFront with AWS Lambda@Edge superpowers</title>
-      <link>https://hrvojematic.com/blog/devops/cloudfront/</link>
+      <link>http://hrvojematic.com/blog/devops/cloudfront/</link>
       <pubDate>Thu, 17 Sep 2020 19:53:26 +0200</pubDate>
       
-      <guid>https://hrvojematic.com/blog/devops/cloudfront/</guid>
+      <guid>http://hrvojematic.com/blog/devops/cloudfront/</guid>
       <description>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</description>
     </item>
     
