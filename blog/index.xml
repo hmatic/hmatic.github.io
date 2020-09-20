@@ -2,116 +2,116 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on H.M.</title>
-    <link>http://hrvojematic.com/blog/</link>
+    <link>https://hrvojematic.com/blog/</link>
     <description>Recent content in Blog on H.M.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Sep 2020 19:58:26 +0200</lastBuildDate><atom:link href="http://hrvojematic.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 Sep 2020 19:58:26 +0200</lastBuildDate><atom:link href="https://hrvojematic.com/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My first post</title>
-      <link>http://hrvojematic.com/blog/my-first-post/</link>
+      <link>https://hrvojematic.com/blog/my-first-post/</link>
       <pubDate>Sat, 19 Sep 2020 19:58:26 +0200</pubDate>
       
-      <guid>http://hrvojematic.com/blog/my-first-post/</guid>
+      <guid>https://hrvojematic.com/blog/my-first-post/</guid>
       <description>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</description>
     </item>
     
     <item>
       <title>Enhancing CloudFront with AWS Lambda@Edge superpowers</title>
-      <link>http://hrvojematic.com/blog/devops/cloudfront/</link>
+      <link>https://hrvojematic.com/blog/devops/cloudfront/</link>
       <pubDate>Thu, 17 Sep 2020 19:53:26 +0200</pubDate>
       
-      <guid>http://hrvojematic.com/blog/devops/cloudfront/</guid>
+      <guid>https://hrvojematic.com/blog/devops/cloudfront/</guid>
       <description>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</description>
     </item>
     
     <item>
       <title>Enhancing CloudFront with AWS Lambda@Edge superpowers</title>
-      <link>http://hrvojematic.com/blog/devops/cloudfront-copy-2/</link>
+      <link>https://hrvojematic.com/blog/devops/cloudfront-copy-2/</link>
       <pubDate>Thu, 17 Sep 2020 19:53:26 +0200</pubDate>
       
-      <guid>http://hrvojematic.com/blog/devops/cloudfront-copy-2/</guid>
+      <guid>https://hrvojematic.com/blog/devops/cloudfront-copy-2/</guid>
       <description>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</description>
     </item>
     
     <item>
       <title>Enhancing CloudFront with AWS Lambda@Edge superpowers</title>
-      <link>http://hrvojematic.com/blog/devops/cloudfront-copy-3/</link>
+      <link>https://hrvojematic.com/blog/devops/cloudfront-copy-3/</link>
       <pubDate>Thu, 17 Sep 2020 19:53:26 +0200</pubDate>
       
-      <guid>http://hrvojematic.com/blog/devops/cloudfront-copy-3/</guid>
+      <guid>https://hrvojematic.com/blog/devops/cloudfront-copy-3/</guid>
       <description>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</description>
     </item>
     
     <item>
       <title>Enhancing CloudFront with AWS Lambda@Edge superpowers</title>
-      <link>http://hrvojematic.com/blog/devops/cloudfront-copy-4/</link>
+      <link>https://hrvojematic.com/blog/devops/cloudfront-copy-4/</link>
       <pubDate>Thu, 17 Sep 2020 19:53:26 +0200</pubDate>
       
-      <guid>http://hrvojematic.com/blog/devops/cloudfront-copy-4/</guid>
+      <guid>https://hrvojematic.com/blog/devops/cloudfront-copy-4/</guid>
       <description>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</description>
     </item>
     
     <item>
       <title>Enhancing CloudFront with AWS Lambda@Edge superpowers</title>
-      <link>http://hrvojematic.com/blog/devops/cloudfront-copy-5/</link>
+      <link>https://hrvojematic.com/blog/devops/cloudfront-copy-5/</link>
       <pubDate>Thu, 17 Sep 2020 19:53:26 +0200</pubDate>
       
-      <guid>http://hrvojematic.com/blog/devops/cloudfront-copy-5/</guid>
+      <guid>https://hrvojematic.com/blog/devops/cloudfront-copy-5/</guid>
       <description>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</description>
     </item>
     
     <item>
       <title>Enhancing CloudFront with AWS Lambda@Edge superpowers</title>
-      <link>http://hrvojematic.com/blog/devops/cloudfront/</link>
+      <link>https://hrvojematic.com/blog/devops/cloudfront/</link>
       <pubDate>Thu, 17 Sep 2020 19:53:26 +0200</pubDate>
       
-      <guid>http://hrvojematic.com/blog/devops/cloudfront/</guid>
+      <guid>https://hrvojematic.com/blog/devops/cloudfront/</guid>
       <description>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</description>
     </item>
     
     <item>
       <title>Enhancing CloudFront with AWS Lambda@Edge superpowers</title>
-      <link>http://hrvojematic.com/blog/devops/cloudfront/</link>
+      <link>https://hrvojematic.com/blog/devops/cloudfront/</link>
       <pubDate>Thu, 17 Sep 2020 19:53:26 +0200</pubDate>
       
-      <guid>http://hrvojematic.com/blog/devops/cloudfront/</guid>
+      <guid>https://hrvojematic.com/blog/devops/cloudfront/</guid>
       <description>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</description>
     </item>
     
     <item>
       <title>Enhancing CloudFront with AWS Lambda@Edge superpowers</title>
-      <link>http://hrvojematic.com/blog/devops/cloudfront/</link>
+      <link>https://hrvojematic.com/blog/devops/cloudfront/</link>
       <pubDate>Thu, 17 Sep 2020 19:53:26 +0200</pubDate>
       
-      <guid>http://hrvojematic.com/blog/devops/cloudfront/</guid>
+      <guid>https://hrvojematic.com/blog/devops/cloudfront/</guid>
       <description>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</description>
     </item>
     
     <item>
       <title>Enhancing CloudFront with AWS Lambda@Edge superpowers</title>
-      <link>http://hrvojematic.com/blog/devops/cloudfront/</link>
+      <link>https://hrvojematic.com/blog/devops/cloudfront/</link>
       <pubDate>Thu, 17 Sep 2020 19:53:26 +0200</pubDate>
       
-      <guid>http://hrvojematic.com/blog/devops/cloudfront/</guid>
+      <guid>https://hrvojematic.com/blog/devops/cloudfront/</guid>
       <description>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</description>
     </item>
     
     <item>
       <title>Enhancing CloudFront with AWS Lambda@Edge superpowers</title>
-      <link>http://hrvojematic.com/blog/devops/cloudfront-copy/</link>
+      <link>https://hrvojematic.com/blog/devops/cloudfront-copy/</link>
       <pubDate>Thu, 17 Sep 2020 19:53:26 +0200</pubDate>
       
-      <guid>http://hrvojematic.com/blog/devops/cloudfront-copy/</guid>
+      <guid>https://hrvojematic.com/blog/devops/cloudfront-copy/</guid>
       <description>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</description>
     </item>
     
     <item>
       <title>Enhancing CloudFront with AWS Lambda@Edge superpowers</title>
-      <link>http://hrvojematic.com/blog/devops/cloudfront/</link>
+      <link>https://hrvojematic.com/blog/devops/cloudfront/</link>
       <pubDate>Thu, 17 Sep 2020 19:53:26 +0200</pubDate>
       
-      <guid>http://hrvojematic.com/blog/devops/cloudfront/</guid>
+      <guid>https://hrvojematic.com/blog/devops/cloudfront/</guid>
       <description>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</description>
     </item>
     
